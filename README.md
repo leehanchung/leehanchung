@@ -1,9 +1,12 @@
-<h2>😄 About</h2>
+<h3>😄 About</h3>
+
 - 🔭 I’m currently working on building machine learning systems as Director - Machine Learning @ [Moody's Analytics](https://www.moodysanalytics.com/).
+
 - 🌱 I'm interesting in machine learning systems, MLOps, search and recommendation systems, NLU, and NLP.
+
 - 💬 I'm keeping my blogs here - [Full Stack Machine Learning](https://leehanchung.github.io/)
 
-<h2 align="left">🌱 Tools of the Trade</h3>
+<h2 align="left">⚒️ Tools of the Trade</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
   <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
