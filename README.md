@@ -30,11 +30,10 @@ I keep my blogs here: [Full Stack Machine Learning](https://leehanchung.github.i
 </p>
 
 <h3>Statistics</h3>
-</h3><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehanchung&layout=compact&hide=html&theme=onedark" alt="leehanchung" /></h3>
-<br />
-<h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=leehanchung&show_icons=true&theme=onedark" alt="leehanchung" />
-</h3>
+<p float="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehanchung&layout=compact&hide=html&theme=onedark" alt="leehanchung" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=leehanchung&show_icons=true&theme=onedark" alt="leehanchung" />  
+</p>
 
 <!-- ### Hi there 👋
 
