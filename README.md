@@ -25,13 +25,12 @@ I keep my blogs here: [Full Stack Machine Learning](https://leehanchung.github.i
 <p>
   <a href="https://twitter.com/HanChungLee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/hanchunglee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lee.hanchung@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-     </a>
+  <a href="mailto:lee.hanchung@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 </p>
 
-<h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehanchung&layout=compact&hide=html&theme=onedark" alt="leehanchung" />
-</h3>
+<h3>Statistics</h3>
+</h3><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehanchung&layout=compact&hide=html&theme=onedark" alt="leehanchung" /></h3>
 <br />
 <h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=leehanchung&show_icons=true&theme=onedark" alt="leehanchung" />
