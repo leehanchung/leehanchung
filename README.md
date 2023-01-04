@@ -6,6 +6,9 @@
 
 - 💬 I'm keeping my blogs here - [Full Stack Machine Learning](https://leehanchung.github.io/)
 
+- 🤔 The current state of my public Github is: ![](https://pbs.twimg.com/media/Eq3NhahW4AEGT5r?format=jpg&name=900x900)
+
+
 
 <h2>⚡ Github Statistics</h2>
 <p float="left">
