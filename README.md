@@ -1,12 +1,12 @@
 <h2>😄 About</h2>
 
-- 🔭 I’m currently working on building machine learning systems as Director - Machine Learning @ [Moody's Analytics](https://www.moodysanalytics.com/).
+- 🔭 I’m currently building machine learning systems.
 
-- 🌱 I'm interesting in machine learning systems, MLOps, search and recommendation systems, NLU, and NLP.
+- 🌱 I'm interested in machine learning systems, MLOps, search and recommendation systems, NLU, and NLP.
 
 - 💬 I'm keeping my blogs here - [Full Stack Machine Learning](https://leehanchung.github.io/)
 
-- 🤔 The current state of my public Github is: ![](https://pbs.twimg.com/media/Eq3NhahW4AEGT5r?format=jpg&name=900x900)
+- 🤔 The current state of my public Github is:![](https://pbs.twimg.com/media/Eq3NhahW4AEGT5r?format=jpg&name=900x900)
 
 
 
