@@ -1,14 +1,12 @@
 <h2>😄 About</h2>
 
-- 🔭 I’m currently building machine learning systems.
+- 🔭 I've been building machine learning systems since 10 B.C. (before chatgpt).
 
-- 🌱 I'm interested in machine learning systems, MLOps, search and recommendation systems, NLU, and NLP.
+- 🌱 I'm interested in machine learning systems, MLOps, search and recommendation systems, RL, and NLP. Or in non-technical terms, AI, Agents, and LLM.
 
 - 💬 I'm keeping my blogs here - [Full Stack Machine Learning](https://leehanchung.github.io/)
 
 - 🤔 The current state of my public Github is:![](https://pbs.twimg.com/media/Eq3NhahW4AEGT5r?format=jpg&name=900x900)
-
-
 
 <h2>⚡ Github Statistics</h2>
 <p float="left">
