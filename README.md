@@ -1,6 +1,6 @@
 <!-- BOOK BANNER -->
 <a href="https://hubs.la/Q046MS1D0">
-  <img src="https://raw.githubusercontent.com/leehanchung/evaluations-and-alignment-book/main/assets/cover.png" 
+  <img src="https://github.com/leehanchung/leehanchung/blob/main/large%20visual%20with%20text-lee4.jpg" 
        alt="Evaluation and Alignment: The Seminal Papers" 
        width="180" align="right"/>
 </a>
