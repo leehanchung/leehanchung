@@ -1,26 +1,14 @@
 <h2>😄 About</h2>
 
-- 🔭 I've been building machine learning systems since 10 B.C. (before chatgpt).
+- 🔭 I've been building machine learning systems since 10 B.C. (Before ChatGPT).
+- 🌱 Interested in ML systems, MLOps, search and recommendation, RL, and NLP — or in plain English: AI, agents, and LLMs.
+- 📖 I'm writing **[Evaluation and Alignment: The Seminal Papers](https://hubs.la/Q046MS1D0)** (Manning Publications) — a practical guide to designing and implementing AI evaluation systems, grounded in seminal research. *Early access available now — 50% off.*
+- 💬 I blog at [Full Stack Machine Learning](https://leehanchung.github.io/)
+- 🤔 The current state of my public GitHub:
 
-- 🌱 I'm interested in machine learning systems, MLOps, search and recommendation systems, RL, and NLP. Or in non-technical terms, AI, Agents, and LLM.
+![](https://pbs.twimg.com/media/Eq3NhahW4AEGT5r?format=jpg&name=900x900)
 
-- 💬 I'm keeping my blogs here - [Full Stack Machine Learning](https://leehanchung.github.io/)
-
-- 🤔 The current state of my public Github is:![](https://pbs.twimg.com/media/Eq3NhahW4AEGT5r?format=jpg&name=900x900)
-
-<h2>⚡ Github Statistics</h2>
+<h2>⚡ GitHub Statistics</h2>
 <p float="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehanchung&layout=compact&hide=html&theme=onedark" alt="leehanchung" />
 </p>
-
-<!-- ### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
