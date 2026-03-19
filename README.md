@@ -1,4 +1,4 @@
-# Lee Han Chung
+# Han
 
 > Writing and building practical AI systems focused on evaluation, alignment, ML infrastructure, search, and recommendation.
 
